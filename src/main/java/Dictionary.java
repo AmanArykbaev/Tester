@@ -58,6 +58,7 @@ public class Dictionary {
                 matches.add(word);
             }
         }
+        
         System.out.println(matches);
         return matches;
     }
